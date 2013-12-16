@@ -1,0 +1,45 @@
+
+PODS:
+- AFNetworking (1.0.1)
+- PrettyKit (0.2.0)
+- REComposeViewController (0.0.1)
+- RestKit (0.20.0pre3):
+  - RestKit/Core (= 0.20.0pre3)
+- RestKit/Core (0.20.0pre3):
+  - RestKit/CoreData
+  - RestKit/Network
+  - RestKit/ObjectMapping
+- RestKit/CoreData (0.20.0pre3)
+- RestKit/Network (0.20.0pre3):
+  - AFNetworking (= 1.0.1)
+  - RestKit/ObjectMapping
+  - RestKit/Support
+  - SOCKit
+- RestKit/ObjectMapping (0.20.0pre3)
+- RestKit/Support (0.20.0pre3)
+- SOCKit (1.1)
+- SVPullToRefresh (0.4)
+- TTTAttributedLabel (1.4.1)
+
+DEPENDENCIES:
+- PrettyKit (~> 0.2.0)
+- REComposeViewController (~> 0.0.1)
+- RestKit (~> 0.20.0pre)
+- SVPullToRefresh (~> 0.4)
+- TTTAttributedLabel (~> 1.4.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 4c11f857c9a18d65f4257c90a1e74ac49f0ac422
+  PrettyKit: 44b8f06f3719579880d2e11cd6498b7464b3b0fa
+  REComposeViewController: 346eb738a68ddcce77b3d771695a91c7af1a5701
+  RestKit: 25e0c86540023120ca893c64b4387986e6276c00
+  RestKit/Core: 25e0c86540023120ca893c64b4387986e6276c00
+  RestKit/CoreData: 25e0c86540023120ca893c64b4387986e6276c00
+  RestKit/Network: 25e0c86540023120ca893c64b4387986e6276c00
+  RestKit/ObjectMapping: 25e0c86540023120ca893c64b4387986e6276c00
+  RestKit/Support: 25e0c86540023120ca893c64b4387986e6276c00
+  SOCKit: 179515c1a621dd5652a60e9be02ea4adcd25bc9b
+  SVPullToRefresh: 479bcbbf42c83366f49aab231ed6e94dad928fef
+  TTTAttributedLabel: d4e6d8abb6c91fbdca6d9eb0154d9169515204c2
+
+COCOAPODS: 0.16.0
